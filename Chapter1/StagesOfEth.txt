@@ -1,0 +1,18 @@
+Frontier—The initial stage of Ethereum, lasting from July 30, 2015, to March
+
+Ice Age—A hard fork to introduce an exponential difficulty increase, to motivate
+a transition to PoS when ready.
+
+Homestead—The second stage of Ethereum, launched in March 2016.
+
+DAO—A hard fork that reimbursed victims of the hacked DAO contract and
+caused Ethereum and Ethereum Classic to split into two competing systems.
+
+Tangerine Whistle—A hard fork to change the gas calculation for certain I/Oheavy operations and to clear the accumulated state from a denial-of-service
+(DoS) attack that exploited the low gas cost of those operations.
+
+Spurious Dragon—A hard fork to address more DoS attack vectors, and another
+state clearing. Also, a replay attack protection mechanism.
+
+Metropolis Byzantium—Metropolis is the third stage of Ethereum, current at the
+time of writing this book, launched in

@@ -1,1 +1,17 @@
-lalala
+Account:
+object hai ek jo address balance nonce and storage contain karta hai
+
+Address:
+EOA or a Contract representation
+
+Assert:
+jab assert execute hota hai tab yey bhaisahab
+jo change hua hai sab back to normal kar dete hai
+
+Big Endian:
+nahi pata yt sai dekhna padega
+
+BIPs
+EIPs jaisa but Bitcoin ke liye
+
+Block:
